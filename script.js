@@ -13,9 +13,6 @@ caixa.addEventListener("click", () => {
   caixa_comp.style.display = "none";
   gif.style.display = "block";
   gif.style.animation = "gif 4s";
-  gif.style.animationDelay = " 0.2s";
   tampa.style.animation = "abrir-tampa 2s";
-  tampa.style.animationDelay = "0.2s";
   caixa_baixo.style.animation = "abrir-caixa 2s";
-  caixa_baixo.style.animationDelay = "0.2s";
 });
